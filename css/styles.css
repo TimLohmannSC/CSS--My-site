@@ -1,0 +1,28 @@
+.top-box{
+    background-color: #84a9ac;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+body{
+    margin: 0;
+}
+h1{
+
+    margin-top: 0px;
+    
+}
+.middle-box{ 
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+.bottom-box{ 
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+.ecomm{
+    text-decoration: underline;
+}
