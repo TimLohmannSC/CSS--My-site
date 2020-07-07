@@ -1,28 +1,55 @@
-.top-box{
-    background-color: #84a9ac;
+.top-box {
+
     margin-left: 0px;
     margin-top: 0px;
     margin-right: 0px;
     margin-bottom: 0px;
+    position: relative;
+    padding-top: 100px;
+    background-color: #84a9ac;
 }
-body{
-    margin: 0;
-}
-h1{
 
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 5em;
     margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.middle-container {
     
 }
-.middle-box{ 
-    height: 200px;
-    width: 200px;
-    background-color: red;
+
+.bottom-container {
+  
 }
-.bottom-box{ 
-    height: 200px;
-    width: 200px;
-    background-color: blue;
-}
-.ecomm{
+
+.ecomm {
     text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
 }
